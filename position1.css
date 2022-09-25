@@ -1,0 +1,33 @@
+.divone{
+    height: 2000px;
+    width: 300px;
+    border: 2px solid red;
+    position: relative;
+
+}
+.divtwo{
+    height:2000px;
+    width:300px;
+    border:4px solid green;
+    position:sticky;
+    top:0px
+.one{
+    
+    height:100px;
+    width:100px;
+    border: 4px teal;
+    position:sticky;
+    top:0px;
+}
+.two{
+    height: 50px;
+    width:50;
+    border:4px blue;
+    position:fixed;
+    top:200px;
+    right:30p;
+    border-radius:50px;
+    cursor:pointer;
+}
+
+

@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+.parent{
+    width:400px ;
+    height:550px ;
+    background-color:rgb(225,225,225);
+    position: relative;
+    left: 40%;
+    top: 200px;
+}
+.balnkDiv{
+    height:40%;
+    background-color: black;
+    position: relative;
+}
+.balnkDiv:hover{
+    box-shadow:-5px -5px 3px rgb(19, 8, 8),5px 0px 3px rgb(34, 24, 24);
+}
+.content{
+    height: 60%;
+    padding: 0px 10% 0px 10%;
+
+}
+.content:hover{
+    box-shadow: 5px 0px 3px black,-5px 0px 3px black;
+}
+
+.name{
+    height: 25%;
+    font-size: 25px;
+    text-align: center;
+    color: midnightblue;
+}
+.h1{
+    padding-top: 50px;
+}
+.title{
+    height: 25%;
+    margin-top: 50px;
+    font-size: 25px;
+    text-align: center;
+    color: mediumseagreen;
+}
+.desc{
+    /* height: 50%; */
+    font-size: 20px;
+    text-indent: 40px;
+    /* width: 80%; */
+ }
+ .profileImg{
+    position: relative;
+    top:40%; 
+    left: 25%; 
+}

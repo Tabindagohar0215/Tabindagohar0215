@@ -1,0 +1,30 @@
+.parents{
+    background-color: thistle;
+    width: 800px;
+    height: 1200;
+    margin:50px;
+}
+.second div{
+    width: 200px;
+    height:200px;
+    margin:20px;
+}
+.second{
+    position:relative;
+}
+.one{
+    background-color: red;
+    position:absulute;
+    left:10px;
+}
+.two{
+background-color: green;
+position: relative;
+left:100px;
+}
+.three{
+    background-color: blue;
+}
+
+
+

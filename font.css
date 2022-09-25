@@ -1,0 +1,78 @@
+b {
+                  /* CSS TEXTS */
+
+    color:brown;
+    font-family:Arial, Helvetica, sans-serif
+    font-size:50px;
+    font-style:italic;
+    font-weight:20px ;
+    
+
+}
+          
+
+         /* text color */
+p{
+    font-weight:bolder;
+    font-style:italic ;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+            
+
+     /* text-alignment */
+h3 {
+    text-align: center;
+
+
+       /* text-decoration  */
+
+    /* text-decoration line:underline; */
+    text-decoration-color:blue;
+    text-decoration style: wavy;
+    /* text-decoration:line-through solid white */
+}    
+
+      /* text-spacing */
+
+p{
+font-weight:bolder ;
+text-indent: 200px;
+word-spacing: 20px;
+letter-spacing: 4px;
+line-height: 1.5;
+white-space: nowrap;
+}
+
+     /* text-transfomation */
+h2 {
+/* text-transform: capitalize; */
+ /* text-transform: lowercase; */
+ text-transform: uppercase; 
+/* text-transform: none;  */
+} 
+         /* text-shadow */
+
+h1 {
+color: black;
+   /* +ve value_right and bottom */
+text-shadow: 3px 3px 4px cyan;
+
+   /* -ve value_left and top */
+/* text-shadow: -3px -3px 2px black; */
+
+    /* +ve and -ve both value */
+    /* text-shadow:3px 3px 2px black ,-3px -3px 2px black; */
+
+}         
+
+
+
+
+
+
+
+
+    
+
+

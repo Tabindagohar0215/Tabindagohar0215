@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.parent{
+    width:400px ;
+    height:550px ;
+    background-color:rgb(225,225,225);
+    position: relative;
+    left: 40%;
+    top: 200px;
+}
+.balnkDiv{
+    height:60%;
+    background-color: black;
+    position: relative;
+}
+
+ 
+
+    
+
+
+    
+    
+

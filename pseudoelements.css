@@ -1,0 +1,48 @@
+p::first-line{
+    color: teal;
+}
+p{
+    color: green;
+}
+p::first-letter{
+    font-size: 50px;
+    background-color: brown;
+    font-style: italic;
+}
+p::before{
+content: "hello world";
+background-color: chartreuse;
+font-size: 40px;
+font-family: cursive;
+}
+p::after{
+content: "bye";
+background-color: crimson;
+font-size: 40px;
+font-style: italic;
+font-family: fantasy;
+}
+p::selection{
+  color:maroon;
+  background-color: yellow;
+}
+span::selection{
+    background-color: cyan;
+    color: blue;
+    font-size: 30px;
+}
+/* ::marker{
+    background-color: aquamarine;
+    color:darkslategrey;
+    font-size: 30px; */
+}
+#xyz::marker{
+    color:red;
+   
+}
+#abc::marker{
+color:chartreuse;
+}
+
+
+

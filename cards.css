@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+}
+.parent{
+    width:1000px ;
+    height:800px ;
+    background-color:cadetblue;opacity: 5px;
+    position: relative;
+    left: 30%;
+    top: 200px;
+}
+.topborder{
+    background-color:whitesmoke ;
+    position:relative ;
+    border-bottom:40px ;
+    border-bottom-width: 20px;
+    border-style: double;
+}
+.name{
+    height: 20%;
+    font-size: 25px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+    padding-left:30px;
+    background-color:beige ;
+    font-weight: 400;
+    text-decoration-color: cadetblue;
+    font-weight: 500;
+    
+}
+.title{
+    padding:50px;
+    font-size: 30px;
+}
+.desc{
+    padding-top: 120px;
+    text-indent: 30px;
+    
+}
+
+.profileImg{
+   position: relative;
+   top:40%; 
+   left: 25%;
+   border-image-width: 20px;
+
+}
+    
+    
+    
+    
+    
+
+
+ 
+    
+
+    
+    
+    

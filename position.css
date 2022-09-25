@@ -1,0 +1,32 @@
+.parent{
+    width: 400px;
+    height: 1200px;
+    background-color: slateblue;
+    margin:20px;
+
+}
+.third{
+    background-color: tomato;
+}
+.one{
+    width:200px;
+    height:200px;
+    margin: 20;
+    background-color:red;
+    position: relative;
+    left:50px;
+}
+.two{
+    width:200px;
+    height:200px;
+    margin: 20px;
+    background-color:green;
+    left:100px;
+}
+.three{
+    width:200px;
+    height:200px;
+    margin:20px;
+    background-color: blue;
+    left:50;
+}
